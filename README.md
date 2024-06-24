@@ -10,3 +10,8 @@ Although I have never held the official title of Technical Writer, my extensive 
 
 ## Contact Information
 Email: brianna124@gmail.com
+
+## Table of Contents
+
+1. (Case Study: Implementing Whole Team Quality: A Case Study from My Role as QA Engineer)[case-study-whole-team-quality.md]
+2. (How to Move Your App to a New Region)[fly-add-regions-how-to.md]
